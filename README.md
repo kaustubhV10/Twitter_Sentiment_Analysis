@@ -127,8 +127,8 @@ Model/
 
 ## Author
 
+- Kaustubh Vanalkar
 - Naman Jain
-- Kaustubh
 
 ## Acknowledgments
 
